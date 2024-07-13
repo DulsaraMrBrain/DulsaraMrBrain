@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Dulsara from MrBrain
+- 👋 Hi, I’m @DulsaraMrBrain from mr.brain 
 - 👀 I’m interested in every thing in programming, web dev and robotics
-- 🌱 I’m currently learning all above and many more
-- <h1>Mr.Brain</h1>
+- 🌱 I’m currently learning all above and many more <h1>Mr.brain</h1> print("Hello world")
